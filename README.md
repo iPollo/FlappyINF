@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="180" src="https://i.imgur.com/6NHgGUv.png">
+  <img width="400" height="240" src="https://i.imgur.com/6NHgGUv.png">
 </p>
 
 # FlappyINF
